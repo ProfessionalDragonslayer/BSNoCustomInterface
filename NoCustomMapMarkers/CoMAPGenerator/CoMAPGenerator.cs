@@ -20,7 +20,7 @@ namespace BSNoCustomMapMarkers.CoMAPGenerator
                 {
                     outputfile.WriteLine("    {");
 
-                    outputfile.Write(@"      ""refID"": ");
+                    outputfile.Write(@"      ""refID"": """);
                     outputfile.Write(comapInfo.ModName);
                     outputfile.Write("|");
                     outputfile.Write("{0:X}", comapInfo.Id);
