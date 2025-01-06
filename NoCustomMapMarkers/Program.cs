@@ -3,6 +3,8 @@ using Mutagen.Bethesda.Synthesis;
 using Mutagen.Bethesda.Skyrim;
 using BSNoCustomMapMarkers;
 using BSNoCustomMapMarkers.Parser;
+using BSNoCustomMapMarkers.Model;
+using BSNoCustomMapMarkers.CoMAPGenerator;
 
 
 namespace NoCustomMapMarkers
@@ -37,6 +39,8 @@ namespace NoCustomMapMarkers
             var placedMapMarkers = state.LoadOrder.PriorityOrder.PlacedObject()
                 .WinningContextOverrides(state.LinkCache)
                 .Where(p  => p.Record.Base.FormKey == mapMarkerFormKey);
+
+            List<CoMAPInfo> coMAPInfos = [];
             
             foreach(var mapMarker in placedMapMarkers)
             {
@@ -52,23 +56,35 @@ namespace NoCustomMapMarkers
                     continue;
 
                 var mapMarkerData = importedMapMarkerData.Where(m => m.TNAM == (int)copiedMapMarker.MapMarker.Type).FirstOrDefault();
-                if (mapMarkerData != null && mapMarkerData.NonCustomMarker != null)
+                if (mapMarkerData is not null && mapMarkerData.NonCustomMarker is not null && mapMarker is not null)
                 {
                     copiedMapMarker.MapMarker.Type = (MapMarker.MarkerType)mapMarkerData.NonCustomMarker.TNAM;
+
+                    var markername = mapMarker.Record.MapMarker.Name;
+
+                    if (markername != null)
+                    {
+                        coMAPInfos.Add(new CoMAPInfo()
+                        {
+                            Id = mapMarker.Record.FormKey.ID,
+                            MarkerName = markername.String,
+                            ModName = mapMarker.Record.FormKey.ModKey.FileName,
+                            OriginalMarker = mapMarkerData.NonCustomMarkerName,
+                            IconName = mapMarkerData.CoMAPIconName
+                        });
+                    }
                 }
                 else
                 {
                     copiedMapMarker.MapMarker.Type = MapMarker.MarkerType.Landmark;
                 }
-
-                //TODO  generate CoMAP file
-
-                counter++;
             }
-
             Console.WriteLine($"Processed {counter} map markers");
 
-            //TODO Export CoMAP file
+            if (Settings.Value.GenerateCoMAPData)
+            {
+                CoMAPGenerator.WriteCoMapFile(state, coMAPInfos);
+            }
         }
     }
 }
