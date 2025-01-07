@@ -26,11 +26,11 @@ namespace BSNoCustomMapMarkers.CoMAPGenerator
                     outputfile.Write("{0:X}", comapInfo.Id);
                     outputfile.Write(@""" // ");
                     outputfile.Write(comapInfo.MarkerName);
-                    outputfile.WriteLine($"(Original Marker: {comapInfo.OriginalMarker})");
+                    outputfile.WriteLine($" (Original Marker: {comapInfo.OriginalMarker})");
 
                     outputfile.Write(@"      ""iconName"": """);
                     outputfile.Write(comapInfo.IconName);
-                    outputfile.WriteLine(@"""");
+                    outputfile.WriteLine(@"Marker""");
 
                     outputfile.WriteLine("    },");
                 }
