@@ -10,23 +10,22 @@ namespace BSNoCustomMapMarkers.Parser
     internal class CsvParser : ISpreadsheetParser
     {
         public required NoCustomMapMarkersSettings Settings {get; set; }
+        public required string FilePath {get; set; }
 
         public List<MapMarkerData> ParseDocument()
         {
             List<MapMarkerData> mapMarkers = [];
 
-            var exactPath = Path.GetFullPath(Settings.FilePath);
-
-            if (!File.Exists(exactPath))
+            if (!File.Exists(FilePath))
             {
-                Console.WriteLine($"Failed to find map marker config file: {exactPath}");
+                Console.WriteLine($"Failed to find map marker config file: {FilePath}");
                 return mapMarkers;
             } 
 
-            using (var reader = new StreamReader(exactPath))
+            using (var reader = new StreamReader(FilePath))
             using (var csvReader = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture) { Delimiter = ";", Encoding = Encoding.UTF8 }))
             {
-                Console.WriteLine($"Read from map marker config file: {exactPath}");
+                Console.WriteLine($"Read from map marker config file: {FilePath}");
                 csvReader.Read();
                 csvReader.ReadHeader();
 

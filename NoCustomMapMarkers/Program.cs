@@ -29,10 +29,6 @@ namespace BSNoCustomMapMarkers
         {
             Console.WriteLine(">>>Patch Beyond Skyrim - No Custom MapMarkers");
 
-            Console.WriteLine("\n Test path:    ");
-            Console.Write(Assembly.GetExecutingAssembly().Location);
-            Console.WriteLine("\n");
-
             int counter = 0;
 
             var parser = SpreatsheetParserFactory.GetParser(Settings.Value);
