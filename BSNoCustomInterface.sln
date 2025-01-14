@@ -4,6 +4,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BSNoCustomMapMarkers", "NoCustomMapMarkers\BSNoCustomMapMarkers.csproj", "{8BA2E1B7-DD65-42B6-A780-17E4037A3C1B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BSNoCustomQuestKnotwork", "BSNoCustomQuestKnotwork\BSNoCustomQuestKnotwork.csproj", "{018E323A-6422-467E-B279-A8711E60B5DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{8BA2E1B7-DD65-42B6-A780-17E4037A3C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA2E1B7-DD65-42B6-A780-17E4037A3C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA2E1B7-DD65-42B6-A780-17E4037A3C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018E323A-6422-467E-B279-A8711E60B5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018E323A-6422-467E-B279-A8711E60B5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018E323A-6422-467E-B279-A8711E60B5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018E323A-6422-467E-B279-A8711E60B5DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

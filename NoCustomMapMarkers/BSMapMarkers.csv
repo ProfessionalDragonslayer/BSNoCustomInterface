@@ -1,0 +1,257 @@
+﻿TNAM #;Marker Name;Image;Province;Type;Art Complete;Merged to hudmenu and mapMarkerArt SWFs;Non-Custom Marker Name;Merged to CoMAP Resource File;CoMAP File;CoMAP Shape#;CoMAP iconName;Scale
+0;None;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;000;BS000;1
+1;City;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;001;BS001;1,333333
+2;Town;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;002;BS002;1,333333
+3;Settlement;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;003;BS003;0,666666
+4;Cave;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;004;BS004;0,666666
+5;Camp;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;005;BS005;0,666666
+6;Fort;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;006;BS006;1
+7;Nordic Ruins;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;007;BS007;1
+8;Dwemer Ruin;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;008;BS008;1
+9;Shipwreck;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;009;BS009;1
+10;Grove;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;010;BS010;0,666666
+11;Landmark;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;011;BS011;1
+12;Dragon Lair;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;012;BS012;1
+13;Farm;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;013;BS013;0,666666
+14;Wood Mill;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;014;BS014;0,666666
+15;Mine;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;015;BS015;0,666666
+16;Imperial Camp;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;016;BS016;1
+17;Stormcloak Camp;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;017;BS017;1
+18;Doomstone;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;018;BS018;1
+19;Wheat Mill;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;019;BS019;0,666666
+20;Smelter;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;020;BS020;0,666666
+21;Stable;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;021;BS021;0,666666
+22;Imperial Tower;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;022;BS022;1
+23;Clearing;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;023;BS023;0,666666
+24;Pass;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;024;BS024;1
+25;Altar;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;025;BS025;0,666666
+26;Rock;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;026;BS026;1
+27;Lighthouse;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;027;BS027;1
+28;Orc Stronghold;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;028;BS028;1
+29;Giant Camp;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;029;BS029;0,666666
+30;Shack;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;030;BS030;0,666666
+31;Nordic Tower;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;031;BS031;1
+32;Nordic Dwelling;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;032;BS032;0,666666
+33;Docks;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;033;BS033;1
+34;Shrine;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;034;BS034;1
+35;Riften Castle;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;035;BS035;1
+36;Riften Capitol;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;036;BS036;1,333333
+37;Windhelm Castle;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;037;BS037;1
+38;Windhelm Capitol;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;038;BS038;1,333333
+39;Whiterun Castle;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;039;BS039;1
+40;Whiterun Capitol;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;040;BS040;1,333333
+41;Solitude Castle;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;041;BS041;1
+42;Solitude Capitol;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;042;BS042;1,333333
+43;Markarth Castle;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;043;BS043;1
+44;Markarth Capitol;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;044;BS044;1,333333
+45;Winterhold Castle;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;045;BS045;1
+46;Winterhold Capitol;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;046;BS046;1,333333
+47;Morthal Castle;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;047;BS047;1
+48;Morthal Capitol;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;048;BS048;1,333333
+49;Falkreath Castle;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;049;BS049;1
+50;Falkreath Capitol;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;050;BS050;1,333333
+51;Dawnstar Castle;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;051;BS051;1
+52;Dawnstar Capitol;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;052;BS052;1,333333
+53;Temple of Miraak;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;053;BS053;1
+54;Raven Rock;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;054;BS054;1
+55;Standing Stones;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;055;BS055;1
+56;Telvanni Tower;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;056;BS056;1
+57;To Skyrim;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;057;BS057;1
+58;To Solstheim;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;058;BS058;1
+59;Castle Karstaag;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;059;BS059;1
+60;Empty;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;060;BS060;1
+61;DoorMarker;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;061;BS061;1
+62;QuestTargetMarker;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;062;BS062;1,333333
+63;QuestTargetDoorMarker;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;063;BS063;1
+64;MultipleQuestTargetMarker;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;064;BS064;1,333333
+65;PlayerSetMarker;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;065;BS065;1,333333
+66;YouAreHereMarker;;Skyrim;;TRUE;TRUE;N/A;N/A;N/A;066;BS066;1,333333
+67;Jylkurfyk;;Atmora;City;FALSE;FALSE;City;FALSE;bsresources01;067;BS067;1,333333
+68;Rikbjorngaardu;;Atmora;Dungeon;FALSE;FALSE;Nordic Ruins;FALSE;bsresources01;068;BS068;1,333333
+69;Undirholt;;Atmora;Dungeon;FALSE;FALSE;Nordic Ruins;FALSE;bsresources01;069;BS069;1,333333
+70;Atmoran Tomb;;Atmora;Dungeon;FALSE;FALSE;Nordic Dwelling;FALSE;bsresources01;070;BS070;1
+71;Atmoran Temple;;Atmora;Dungeon;FALSE;FALSE;Nordic Ruins;FALSE;bsresources01;071;BS071;1
+72;Barren Grove;;Atmora;Landmark;TRUE;TRUE;Grove;TRUE;bsresources01;072;BS072;0,666666
+73;;;Atmora;;FALSE;FALSE;;FALSE;bsresources01;073;BS073;1
+74;;;Atmora;;FALSE;FALSE;;FALSE;bsresources01;074;BS074;1
+75;;;Atmora;;FALSE;FALSE;;FALSE;bsresources01;075;BS075;1
+76;;;Atmora;;FALSE;FALSE;;FALSE;bsresources01;076;BS076;1
+77;;;Atmora;;FALSE;FALSE;;FALSE;bsresources01;077;BS077;1
+78;;;Atmora;;FALSE;FALSE;;FALSE;bsresources01;078;BS078;1
+79;;;Atmora;;FALSE;FALSE;;FALSE;bsresources01;079;BS079;1
+80;;;Atmora;;FALSE;FALSE;;FALSE;bsresources01;080;BS080;1
+81;;;Atmora;;FALSE;FALSE;;FALSE;bsresources01;081;BS081;1
+82;Frulthuul;;Roscrea;City;TRUE;TRUE;City;TRUE;bsresources01;082;BS082;1,333333
+83;Crane Shore;;Roscrea;City;TRUE;TRUE;City;TRUE;bsresources01;083;BS083;1,333333
+84;;;Roscrea;;FALSE;FALSE;;FALSE;bsresources01;084;BS084;1
+85;;;Roscrea;;FALSE;FALSE;;FALSE;bsresources01;085;BS085;1
+86;;;Roscrea;;FALSE;FALSE;;FALSE;bsresources01;086;BS086;1
+87;;;Roscrea;;FALSE;FALSE;;FALSE;bsresources01;087;BS087;1
+88;;;Roscrea;;FALSE;FALSE;;FALSE;bsresources01;088;BS088;1
+89;;;Roscrea;;FALSE;FALSE;;FALSE;bsresources01;089;BS089;1
+90;;;Roscrea;;FALSE;FALSE;;FALSE;bsresources01;090;BS090;1
+91;;;Roscrea;;FALSE;FALSE;;FALSE;bsresources01;091;BS091;1
+92;;;Roscrea;;FALSE;FALSE;;FALSE;bsresources01;092;BS092;1
+93;Arboretum District;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;093;BS093;1
+94;Arena District;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;094;BS094;1
+95;Crown District;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;095;BS095;1
+96;Elven Gardens District;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;096;BS096;1
+97;Market District;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;097;BS097;1
+98;Temple District;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;098;BS098;1
+99;White Gold Tower;;Cyrodiil;Castle / Palace;TRUE;TRUE;Landmark;TRUE;bsresources01;099;BS099;1,5
+100;Anvil;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;100;BS100;1,333333
+101;Bravil;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;101;BS101;1,333333
+102;Bruma;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;102;BS102;1,333333
+103;Cheydinhal;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;103;BS103;1,333333
+104;Chorrol;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;104;BS104;1,333333
+105;Kvatch;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;105;BS105;1,333333
+106;Leyawiin;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;106;BS106;1,333333
+107;Skingrad;;Cyrodiil;City;TRUE;TRUE;City;TRUE;bsresources01;107;BS107;1,333333
+108;Minotaur Camp;;Cyrodiil;Camp;TRUE;TRUE;Camp;TRUE;bsresources01;108;BS108;1
+109;Colovian Tomb;;Cyrodiil;Dungeon;TRUE;TRUE;Nordic Dwelling;TRUE;bsresources01;109;BS109;0,666666
+110;Arcane University;;Cyrodiil;Settlement;TRUE;TRUE;Landmark;TRUE;bsresources01;110;BS110;1
+111;College of Whispers;;Cyrodiil;Settlement;TRUE;TRUE;Settlement;TRUE;bsresources01;111;BS111;1
+112;Mournhold;;Morrowind;City;FALSE;FALSE;City;FALSE;bsresources01;112;BS112;1,333333
+113;Blacklight;;Morrowind;City;FALSE;FALSE;City;FALSE;bsresources01;113;BS113;1,333333
+114;Narsis;;Morrowind;City;FALSE;FALSE;City;FALSE;bsresources01;114;BS114;1,333333
+115;Port Telvannis;;Morrowind;City;FALSE;FALSE;City;FALSE;bsresources01;115;BS115;1,333333
+116;Necrom;;Morrowind;City;FALSE;FALSE;City;FALSE;bsresources01;116;BS116;1,333333
+117;Kragenmoor;;Morrowind;City;FALSE;FALSE;City;FALSE;bsresources01;117;BS117;1,333333
+118;Tear;;Morrowind;City;FALSE;FALSE;City;FALSE;bsresources01;118;BS118;1,333333
+119;Hlaalu/Sadras Settlement;;Morrowind;Settlement;FALSE;FALSE;Settlement;FALSE;bsresources01;119;BS119;1
+120;Indoril Settlement;;Morrowind;Settlement;FALSE;FALSE;Settlement;FALSE;bsresources01;120;BS120;1
+121;Dres Settlement;;Morrowind;Settlement;FALSE;FALSE;Settlement;FALSE;bsresources01;121;BS121;1
+122;Eastern Dwemer;;Morrowind;Dungeon;TRUE;TRUE;Dwemer Ruin;TRUE;bsresources01;122;BS122;1
+123;Velothi Tower;;Morrowind;Dungeon;TRUE;TRUE;Nordic Tower;TRUE;bsresources01;123;BS123;1
+124;Dunmeri Stronghold;;Morrowind;Dungeon;TRUE;TRUE;Altar;TRUE;bsresources01;124;BS124;1
+125;Ancestral Tomb;;Morrowind;Dungeon;TRUE;TRUE;Nordic Dwelling;TRUE;bsresources01;125;BS125;1
+126;Daedric Ruin;;Morrowind;Dungeon;TRUE;TRUE;Nordic Ruins;TRUE;bsresources01;126;BS126;1
+127;Dragonstar;;Hammerfell;City;TRUE;TRUE;City;TRUE;bsresources01;127;BS127;1,333333
+128;Elinhir;;Hammerfell;City;TRUE;TRUE;City;TRUE;bsresources01;128;BS128;1,333333
+129;Gilane;;Hammerfell;City;TRUE;TRUE;City;TRUE;bsresources01;129;BS129;1,333333
+130;Hegathe;;Hammerfell;City;TRUE;TRUE;City;TRUE;bsresources01;130;BS130;1,333333
+131;Rihad;;Hammerfell;City;TRUE;TRUE;City;TRUE;bsresources01;131;BS131;1,333333
+132;Sentinel;;Hammerfell;City;TRUE;TRUE;City;TRUE;bsresources01;132;BS132;1,333333
+133;Skaven;;Hammerfell;City;TRUE;TRUE;City;TRUE;bsresources01;133;BS133;1,333333
+134;Taneth;;Hammerfell;City;TRUE;TRUE;City;TRUE;bsresources01;134;BS134;1,333333
+135;Orsinium;;Hammerfell;City;FALSE;FALSE;City;FALSE;bsresources01;135;BS135;1,333333
+136;Port Hunding;;Hammerfell;City;TRUE;TRUE;City;TRUE;bsresources01;136;BS136;1,333333
+137;Oasis;;Hammerfell;Landmark;TRUE;TRUE;Clearing;TRUE;bsresources01;137;BS137;0,666666
+138;Nedic Ruin;;Hammerfell;Dungeon;FALSE;FALSE;Nordic Tower;FALSE;bsresources01;138;BS138;1
+139;Yoku Ruin;;Hammerfell;Dungeon;TRUE;TRUE;Nordic Dwelling;TRUE;bsresources01;139;BS139;1
+140;;;Hammerfell;;FALSE;FALSE;;FALSE;bsresources01;140;BS140;1
+141;;;Hammerfell;;FALSE;FALSE;;FALSE;bsresources01;141;BS141;1
+142;Camlorn;;High Rock;City;TRUE;TRUE;City;TRUE;bsresources01;142;BS142;1,333333
+143;Daggerfall;;High Rock;City;TRUE;TRUE;City;TRUE;bsresources01;143;BS143;1,333333
+144;Evermore;;High Rock;City;FALSE;FALSE;City;FALSE;bsresources01;144;BS144;1,333333
+145;Farrun;;High Rock;City;TRUE;TRUE;City;TRUE;bsresources01;145;BS145;1,333333
+146;Jehanna;;High Rock;City;TRUE;TRUE;City;TRUE;bsresources01;146;BS146;1,333333
+147;Northpoint;;High Rock;City;TRUE;TRUE;City;TRUE;bsresources01;147;BS147;1,333333
+148;Shornhelm;;High Rock;City;TRUE;TRUE;City;TRUE;bsresources01;148;BS148;1,333333
+149;Wayrest;;High Rock;City;TRUE;TRUE;City;TRUE;bsresources01;149;BS149;1,333333
+150;Adamantine Tower;;High Rock;Unique;FALSE;FALSE;Landmark;FALSE;bsresources01;150;BS150;1,333333
+151;Wyrd Tree;;High Rock;Landmark;FALSE;FALSE;Grove;FALSE;bsresources01;151;BS151;1
+152;Direnni Ruin;;High Rock;Dungeon;FALSE;FALSE;Altar;FALSE;bsresources01;152;BS152;1
+153;Bretic Barrow;;High Rock;Landmark;TRUE;TRUE;Nordic Dwelling;TRUE;bsresources01;153;BS153;1
+154;Bretic Crypt;;High Rock;Dungeon;TRUE;TRUE;Nordic Ruins;TRUE;bsresources01;154;BS154;1
+155;;;High Rock;;FALSE;FALSE;;FALSE;bsresources01;155;BS155;1
+156;;;High Rock;;FALSE;FALSE;;FALSE;bsresources01;156;BS156;1
+157;Rimmen;;Elsweyr;;TRUE;TRUE;City;TRUE;bsresources01;157;BS157;1,333333
+158;Riverhold ;;Elsweyr;;TRUE;TRUE;City;TRUE;bsresources01;158;BS158;1,333333
+159;Dune ;;Elsweyr;;TRUE;FALSE;City;FALSE;bsresources01;159;BS159;1,333333
+160;Orcrest;;Elsweyr;;TRUE;FALSE;City;FALSE;bsresources01;160;BS160;1,333333
+161;Corinthe ;;Elsweyr;;TRUE;FALSE;City;FALSE;bsresources01;161;BS161;1,333333
+162;Alabaster;;Elsweyr;;TRUE;FALSE;City;FALSE;bsresources01;162;BS162;1,333333
+163;Senchal ;;Elsweyr;;TRUE;FALSE;City;FALSE;bsresources01;163;BS163;1,333333
+164;Torval ;;Elsweyr;;TRUE;FALSE;City;FALSE;bsresources01;164;BS164;1,333333
+165;Khajiit Temple / Shrine / Ruins;;Elsweyr;;FALSE;FALSE;Shrine;FALSE;bsresources01;165;BS165;1
+166;Anequina Settlement;;Elsweyr;;FALSE;FALSE;Settlement;FALSE;bsresources01;166;BS166;1
+167;Pellitine Settlement;;Elsweyr;;FALSE;FALSE;Settlement;FALSE;bsresources01;167;BS167;1
+168;Khajiit Yurt;;Elsweyr;;FALSE;FALSE;Settlement;FALSE;bsresources01;168;BS168;1
+169;Hall of the Colossus;;Elsweyr;;FALSE;FALSE;Landmark;FALSE;bsresources01;169;BS169;1
+170;;;Elsweyr;;FALSE;FALSE;;FALSE;bsresources01;170;BS170;1
+171;;;Elsweyr;;FALSE;FALSE;;FALSE;bsresources01;171;BS171;1
+172;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;172;BS172;1
+173;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;173;BS173;1
+174;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;174;BS174;1
+175;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;175;BS175;1
+176;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;176;BS176;1
+177;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;177;BS177;1
+178;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;178;BS178;1
+179;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;179;BS179;1
+180;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;180;BS180;1
+181;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;181;BS181;1
+182;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;182;BS182;1
+183;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;183;BS183;1
+184;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;184;BS184;1
+185;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;185;BS185;1
+186;;;Valenwood;;FALSE;FALSE;;FALSE;bsresources01;186;BS186;1
+187;Archon;;Argonia;;TRUE;TRUE;City;TRUE;bsresources01;187;BS187;1,333333
+188;Vakarusa / Blackrose;;Argonia;;TRUE;TRUE;City;TRUE;bsresources01;188;BS188;1,333333
+189;Gideon;;Argonia;;TRUE;TRUE;City;TRUE;bsresources01;189;BS189;1,333333
+190;Lilmoth;;Argonia;;TRUE;TRUE;City;TRUE;bsresources01;190;BS190;1,333333
+191;Soara / Soulrest;;Argonia;;TRUE;TRUE;City;TRUE;bsresources01;191;BS191;1,333333
+192;Shaarath / Stormhold;;Argonia;;TRUE;TRUE;City;TRUE;bsresources01;192;BS192;1,333333
+193;Thorn;;Argonia;;TRUE;TRUE;City;TRUE;bsresources01;193;BS193;1,333333
+194;Helstrom;;Argonia;;TRUE;TRUE;City;TRUE;bsresources01;194;BS194;1,333333
+195;Xanmeer;;Argonia;;TRUE;TRUE;Nordic Dwelling;TRUE;bsresources01;195;BS195;1
+196;Xal-Xanmeer;;Argonia;;TRUE;TRUE;Nordic Ruins;TRUE;bsresources01;196;BS196;1
+197;Hist Grove;;Argonia;;TRUE;TRUE;Grove;TRUE;bsresources01;197;BS197;1
+198;Kothringi Ruin;;Argonia;;TRUE;TRUE;Nordic Tower;TRUE;bsresources01;198;BS198;1
+199;Lilmothiit Ruin;;Argonia;;FALSE;FALSE;Altar;FALSE;bsresources01;199;BS199;1
+200;;;Argonia;;FALSE;FALSE;;FALSE;bsresources01;200;BS200;1
+201;;;Argonia;;FALSE;FALSE;;FALSE;bsresources01;201;BS201;1
+202;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;202;BS202;1
+203;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;203;BS203;1
+204;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;204;BS204;1
+205;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;205;BS205;1
+206;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;206;BS206;1
+207;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;207;BS207;1
+208;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;208;BS208;1
+209;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;209;BS209;1
+210;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;210;BS210;1
+211;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;211;BS211;1
+212;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;212;BS212;1
+213;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;213;BS213;1
+214;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;214;BS214;1
+215;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;215;BS215;1
+216;;;Alinor;;FALSE;FALSE;;FALSE;bsresources01;216;BS216;1
+217;Arrow Travel Marker (NW);;Generic;Travel;TRUE;TRUE;To Solstheim;TRUE;bsresources01;217;BS217;1
+218;Arrow Travel Marker (SE);;Generic;Travel;TRUE;TRUE;To Skyrim;TRUE;bsresources01;218;BS218;1
+219;Ayleid Ruin;;Generic;Dungeon;TRUE;TRUE;Dwemer Ruin;TRUE;bsresources01;219;BS219;1
+220;Akaviri Temple;;Generic;Dungeon;TRUE;TRUE;Nordic Ruins;TRUE;bsresources01;220;BS220;1
+221;Volcano;;Generic;Landmark;FALSE;FALSE;Landmark;FALSE;bsresources01;221;BS221;1
+222;Dunmeri Town;;Generic;Settlement;FALSE;FALSE;Town;FALSE;bsresources01;222;BS222;1
+223;Yurt;;Generic;Settlement;FALSE;FALSE;Camp;FALSE;bsresources01;223;BS223;1
+224;Castle;;Generic;Castle / Palace;TRUE;TRUE;Morthal Castle;TRUE;bsresources01;224;BS224;1
+225;Palace;;Generic;Castle / Palace;TRUE;TRUE;Morthal Castle;TRUE;bsresources01;225;BS225;1
+226;Ruined Town;;Generic;Landmark;FALSE;FALSE;Town;FALSE;bsresources01;226;BS226;1
+227;Dominion / Thalmor Camp;;Generic;Camp;FALSE;FALSE;Camp;FALSE;bsresources01;227;BS227;1
+228;Arrow Travel Marker (N);;Generic;Travel;TRUE;TRUE;To Solstheim;TRUE;bsresources01;228;BS228;1
+229;Arrow Travel Marker (E);;Generic;Travel;TRUE;TRUE;To Solstheim;TRUE;bsresources01;229;BS229;1
+230;Arrow Travel Marker (S);;Generic;Travel;TRUE;TRUE;To Skyrim;TRUE;bsresources01;230;BS230;1
+231;Arrow Travel Marker (W);;Generic;Travel;TRUE;TRUE;To Skyrim;TRUE;bsresources01;231;BS231;1
+232;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;232;BS232;1
+233;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;233;BS233;1
+234;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;234;BS234;1
+235;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;235;BS235;1
+236;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;236;BS236;1
+237;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;237;BS237;1
+238;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;238;BS238;1
+239;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;239;BS239;1
+240;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;240;BS240;1
+241;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;241;BS241;1
+242;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;242;BS242;1
+243;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;243;BS243;1
+244;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;244;BS244;1
+245;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;245;BS245;1
+246;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;246;BS246;1
+247;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;247;BS247;1
+248;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;248;BS248;1
+249;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;249;BS249;1
+250;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;250;BS250;1
+251;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;251;BS251;1
+252;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;252;BS252;1
+253;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;253;BS253;1
+254;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;254;BS254;1
+255;;;Generic;;FALSE;FALSE;;FALSE;bsresources01;255;BS255;1

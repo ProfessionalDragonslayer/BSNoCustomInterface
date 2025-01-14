@@ -1,0 +1,14 @@
+{
+  "Nickname": "BSNoCustomQuestKnotwork",
+  "Visibility": "Exclude",
+  "OneLineDescription": "Patcher to reset quests with custom type/knotwork to vanilla sidequest",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "BSAssets.esm"
+  ],
+  "TargetedReleases": [
+    "SkyrimSE",
+    "SkyrimSEGog"
+  ]
+}

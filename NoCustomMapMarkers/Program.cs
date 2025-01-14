@@ -1,13 +1,11 @@
 using Mutagen.Bethesda;
 using Mutagen.Bethesda.Synthesis;
 using Mutagen.Bethesda.Skyrim;
-using BSNoCustomMapMarkers;
 using BSNoCustomMapMarkers.Parser;
 using BSNoCustomMapMarkers.Model;
-using BSNoCustomMapMarkers.CoMAPGenerator;
 
 
-namespace NoCustomMapMarkers
+namespace BSNoCustomMapMarkers
 {
     public class Program
     {
@@ -38,11 +36,11 @@ namespace NoCustomMapMarkers
             var mapMarkerFormKey = Mutagen.Bethesda.FormKeys.SkyrimSE.Skyrim.Static.MapMarker.FormKey;
             var placedMapMarkers = state.LoadOrder.PriorityOrder.PlacedObject()
                 .WinningContextOverrides(state.LinkCache)
-                .Where(p  => p.Record.Base.FormKey == mapMarkerFormKey);
+                .Where(p => p.Record.Base.FormKey == mapMarkerFormKey);
 
             List<CoMAPInfo> coMAPInfos = [];
-            
-            foreach(var mapMarker in placedMapMarkers)
+
+            foreach (var mapMarker in placedMapMarkers)
             {
                 if (mapMarker.Record.MapMarker == null)
                     continue;
@@ -79,11 +77,12 @@ namespace NoCustomMapMarkers
                     copiedMapMarker.MapMarker.Type = MapMarker.MarkerType.Landmark;
                 }
             }
+            counter++;
             Console.WriteLine($"Processed {counter} map markers");
 
             if (Settings.Value.GenerateCoMAPData)
             {
-                CoMAPGenerator.WriteCoMapFile(state, coMAPInfos);
+                CoMAPGenerator.CoMAPGenerator.WriteCoMapFile(state, coMAPInfos);
             }
         }
     }

@@ -1,11 +1,14 @@
 {
   "Nickname": "NoCustomMapMarkers",
   "Visibility": "Exclude",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Patcher to reset map markers of custom type to predefined vanilla type",
+  "LongDescription": "The Beyond Skyrim mod projects use an implementation of custom map markers that edits a vanilla Skyrim interface files and is thus incompatible with Skyrim VR and mods that use also edit this file.\r\n\r\n This patcher resets all custom map markers to a vanilla one according to a config file that is included in the patcher. \r\n This config file can be replaced by a custom csv file of the same structure. \r\n The patcher also contains the option to generate parts of a CoMAP conifg file for the mod by Jelidity. However this is disabled by default and is only intended for mod authors.",
   "PreferredAutoVersioning": "Default",
-  "RequiredMods": [],
+  "RequiredMods": [
+    "BSAssets.esm"
+  ],
   "TargetedReleases": [
-    "SkyrimSE"
+    "SkyrimSE",
+    "SkyrimSEGog"
   ]
 }

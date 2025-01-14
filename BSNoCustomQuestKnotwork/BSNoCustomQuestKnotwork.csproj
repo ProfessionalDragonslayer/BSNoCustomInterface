@@ -6,16 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CsvHelper" Version="33.0.1" />
-    <PackageReference Include="Mutagen.Bethesda.FormKeys.SkyrimSE" Version="3.4.0" />
     <PackageReference Include="Mutagen.Bethesda.Skyrim" Version="0.48.1" />
     <PackageReference Include="Mutagen.Bethesda.Synthesis" Version="0.32.1" />
   </ItemGroup>
-
-  <ItemGroup>
-    <None Update="BSMapMarkers.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
 </Project>
- 

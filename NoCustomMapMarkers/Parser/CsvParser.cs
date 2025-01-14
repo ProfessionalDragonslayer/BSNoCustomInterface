@@ -15,6 +15,11 @@ namespace BSNoCustomMapMarkers.Parser
         {
             List<MapMarkerData> mapMarkers = [];
 
+            if (!File.Exists(Settings.FilePath))
+            { 
+                return mapMarkers;
+            } 
+
             using (var reader = new StreamReader(Settings.FilePath))
             using (var csvReader = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture) { Delimiter = ";", Encoding = Encoding.UTF8 }))
             {
