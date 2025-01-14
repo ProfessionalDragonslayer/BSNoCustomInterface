@@ -15,14 +15,18 @@ namespace BSNoCustomMapMarkers.Parser
         {
             List<MapMarkerData> mapMarkers = [];
 
-            if (!File.Exists(Settings.FilePath))
-            { 
+            var exactPath = Path.GetFullPath(Settings.FilePath);
+
+            if (!File.Exists(exactPath))
+            {
+                Console.WriteLine($"Failed to find map marker config file: {exactPath}");
                 return mapMarkers;
             } 
 
-            using (var reader = new StreamReader(Settings.FilePath))
+            using (var reader = new StreamReader(exactPath))
             using (var csvReader = new CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture) { Delimiter = ";", Encoding = Encoding.UTF8 }))
             {
+                Console.WriteLine($"Read from map marker config file: {exactPath}");
                 csvReader.Read();
                 csvReader.ReadHeader();
 

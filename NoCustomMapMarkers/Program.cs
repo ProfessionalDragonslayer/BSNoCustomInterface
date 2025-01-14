@@ -3,6 +3,7 @@ using Mutagen.Bethesda.Synthesis;
 using Mutagen.Bethesda.Skyrim;
 using BSNoCustomMapMarkers.Parser;
 using BSNoCustomMapMarkers.Model;
+using System.Reflection;
 
 
 namespace BSNoCustomMapMarkers
@@ -27,6 +28,10 @@ namespace BSNoCustomMapMarkers
         public static void RunPatch(IPatcherState<ISkyrimMod, ISkyrimModGetter> state)
         {
             Console.WriteLine(">>>Patch Beyond Skyrim - No Custom MapMarkers");
+
+            Console.WriteLine("\n Test path:    ");
+            Console.Write(Assembly.GetExecutingAssembly().Location);
+            Console.WriteLine("\n");
 
             int counter = 0;
 
@@ -76,8 +81,8 @@ namespace BSNoCustomMapMarkers
                 {
                     copiedMapMarker.MapMarker.Type = MapMarker.MarkerType.Landmark;
                 }
+                counter++;
             }
-            counter++;
             Console.WriteLine($"Processed {counter} map markers");
 
             if (Settings.Value.GenerateCoMAPData)
